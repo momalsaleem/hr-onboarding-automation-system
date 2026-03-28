@@ -42,7 +42,7 @@ Airtable Interface Designer provides a dashboard for HR teams to monitor onboard
 
 ---
 
-# Task 1 Outcome  
+# Phase 1 Outcome  
 ## Data Cleaning and Categorization
 
 Formulas were implemented to transform and standardize new hire records submitted through the onboarding table.
@@ -58,7 +58,7 @@ These formulas help convert raw onboarding submissions into structured and actio
 
 ---
 
-# Task 2 Outcome  
+# Phase 2 Outcome  
 ## Automation and HR Dashboard
 
 An automation workflow was implemented to handle high value hires.
